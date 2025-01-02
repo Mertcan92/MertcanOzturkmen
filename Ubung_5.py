@@ -1,0 +1,5 @@
+x1=int(input("X1 Koordinate: "))
+y1=int(input("Y1 Koordinate: "))
+x2=int(input("X2 Koordinate: "))
+y2=int(input("Y2 Koordinate: "))
+print(((x2-x1)**2+(y2-y1)**2)**(1/2))
